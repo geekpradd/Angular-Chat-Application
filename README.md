@@ -1,6 +1,7 @@
 ## Ionic Angular Chat Application
 
 Demo link: https://geekpradd.github.io/Angular-Chat-Application/
+
 This is a chat application developed using Angular and Ionic with Flask being used as the backend
 The backend is separate and interacts with the front end using JSON. I will host the backend on PythonAnywhere.
 Right now sockets have not been used as they are not supported on the hosting platform, PythonAnywhere.
